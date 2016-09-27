@@ -6,15 +6,15 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
+author: Cláudio Eduardo Steuernagel
 author-title: Full Stack Developer
 gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
+email: claudio.steuernage@gmail.com
+twitter: claudioes
+github: claudiosteuernagel
+googleplus: 
+facebook: claudio.steuernagel
+linkedin: claudiosteuernagel/en
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
       exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
@@ -128,11 +128,9 @@ devops:
 
 methodologies:
   - name: Agile Methodologies
-    level: 3
-  - name: Scrum
     level: 4
-  - name: RUP
-    level: 3
+  - name: Scrum
+    level: 5
 
 others:
   - name: Web Services
