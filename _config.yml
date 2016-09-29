@@ -39,17 +39,17 @@ bio: "Brazilian developer. Game, music and technology lover."
 front-end:
   - name: HTML 5
     level: 4
-  - name: CSS 3
-    level: 4
   - name: JavaScript
     level: 4
   - name: jQuery
     level: 4
   - name: Angular
     level: 2
+  - name: React
+    level: 1
   - name: Bootstrap
     level: 4
-  - name: Materialize CSS
+  - name: CSS
     level: 4
   - name: LESS
     level: 3
@@ -113,16 +113,22 @@ others:
     level: 5
   - name: REST
     level: 3
-  - name: JEE, JSF, JPA, EJB, CDI
+  - name: JEE, JSF, JPA
     level: 3
-  - name: Jasper Reports
+  - name: Jasper Reports, Report Viewer
     level: 2
   - name: Hibernate
     level: 3
   - name: Spring
     level: 3
+  - name: Spring MVC
+    level: 3
   - name: Quartz
     level: 3
+  - name: Asp.Net WebForms
+    level: 5
+  - name: Asp.Net MVC
+    level: 5
 
 # Build settings
 
