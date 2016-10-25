@@ -39,93 +39,96 @@ front-end:
     level: 4
   - name: jQuery
     level: 4
-  - name: Angular
-    level: 2
-  - name: React
-    level: 1
   - name: Bootstrap
     level: 4
   - name: CSS
     level: 4
   - name: LESS
     level: 3
+  - name: Angular
+    level: 2
+  - name: React
+    level: 1
   - name: Grunt
     level: 1
   - name: Bower
     level: 1
 
 back-end:
-  - name: Node.js
-    level: 1
   - name: C#
     level: 5
-  - name: Java
+  - name: Java (Spring, JEE) 
     level: 4
   - name: SQL
     level: 4
+  - name: Node.js
+    level: 1
 
 mobile:
-  - name: Android
-    level: 1
   - name: Titanium
     level: 3
+  - name: Android
+    level: 1
 
 db:
+  - name: SQL Server
+    level: 5
+  - name: Oracle
+    level: 4
   - name: MySQL
     level: 3
   - name: PostgreSQL
     level: 3
-  - name: SQL Server
-    level: 4
-  - name: Oracle
-    level: 4
   - name: NoSQL
     level: 1
 
 devops:
-  - name: Docker
-    level: 2
-  - name: Jenkins
-    level: 5
   - name: Git
     level: 5
+  - name: Jenkins
+    level: 5  
+  - name: TFS - Team Foundation Server
+    level: 5  
   - name: Apache Maven
     level: 4
   - name: Continuous Integration
-    level: 4
+    level: 4   
+  - name: Nuget
+    level: 3 
+  - name: SVN
+    level: 3
   - name: Continuous Delivery
     level: 3
   - name: MSBuild
+    level: 3
+  - name: Docker
     level: 2
 
 methodologies:
-  - name: Agile Methodologies
-    level: 4
   - name: Scrum
     level: 5
+  - name: Agile Methodologies
+    level: 4
 
 others:
   - name: Web Services
     level: 5
-  - name: REST
-    level: 3
-  - name: JEE, JSF, JPA
-    level: 3
-  - name: Jasper Reports, Report Viewer
-    level: 2
-  - name: Hibernate
-    level: 3
-  - name: Spring
-    level: 3
-  - name: Spring MVC
-    level: 3
-  - name: Quartz
-    level: 3
   - name: Asp.Net WebForms
     level: 5
   - name: Asp.Net MVC
     level: 5
-
+  - name: REST
+    level: 5
+  - name: Design Patterns
+    level: 4
+  - name: Hibernate
+    level: 3
+  - name: Quartz
+    level: 3
+  - name: Bash
+    level: 3
+  - name: Jasper Reports, Report Viewer
+    level: 3
 # Build settings
 
 markdown: kramdown
