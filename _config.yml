@@ -92,7 +92,7 @@ devops:
   - name: Apache Maven
     level: 4
   - name: Continuous Integration
-    level: 4   
+    level: 5   
   - name: Nuget
     level: 3 
   - name: SVN
@@ -100,7 +100,7 @@ devops:
   - name: Continuous Delivery
     level: 3
   - name: MSBuild
-    level: 3
+    level: 4
   - name: Docker
     level: 2
 
