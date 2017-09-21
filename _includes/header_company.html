@@ -2,6 +2,9 @@
   <div class="header-info">
     <h1 class="author-name">{{ site.company }}</h1>
     <h2 class="author-title">{{ site.company-title }}</h2>
+    {% if site.company-subtitle %}
+      <h3 class="author-subtitle">{{ site.company-subtitle }}</h3>
+    {% endif %}
     <ul class="profile-list">
         {% if site.company-email %}
         <li>
