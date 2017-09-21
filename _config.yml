@@ -4,15 +4,26 @@ baseurl: "" # the subpath of your site, e.g. /portfolio
 url: "" # the base hostname & protocol for your site
 language: "" # language to set into html tag, default is en
 
+# Company settings
+company: Cláudio Steuernagel
+company-title: Full Stack Developer
+company-gravatar: 28850fc5512be626f0b3180b9ba24652
+company-email: me@claudiosteuernagel.com
+company-twitter:
+company-github: claudiosteuernagel
+company-googleplus:
+company-facebook: claudio.steuernagel
+company-linkedin: claudiosteuernagel/en
+
 # User settings
 
 author: Cláudio Steuernagel
 author-title: Full Stack Developer
 gravatar: 28850fc5512be626f0b3180b9ba24652
 email: me@claudiosteuernagel.com
-twitter: 
+twitter:
 github: claudiosteuernagel
-googleplus: 
+googleplus:
 facebook: claudio.steuernagel
 linkedin: claudiosteuernagel/en
 bio: "-Brazilian Full Stack Developer, Degree in Computer Engineering, Gamer and technology lover.<br/>
@@ -57,7 +68,7 @@ front-end:
 back-end:
   - name: C#
     level: 5
-  - name: Java (Spring, JEE) 
+  - name: Java (Spring, JEE)
     level: 4
   - name: SQL
     level: 4
@@ -86,15 +97,15 @@ devops:
   - name: Git
     level: 5
   - name: Jenkins
-    level: 5  
+    level: 5
   - name: TFS - Team Foundation Server
-    level: 5  
+    level: 5
   - name: Apache Maven
     level: 4
   - name: Continuous Integration
-    level: 5   
+    level: 5
   - name: Nuget
-    level: 3 
+    level: 3
   - name: SVN
     level: 3
   - name: Continuous Delivery

@@ -1,0 +1,55 @@
+<header class="section">
+  <div class="header-info">
+    <h1 class="author-name">{{ site.company }}</h1>
+    <h2 class="author-title">{{ site.company-title }}</h2>
+    <ul class="profile-list">
+        {% if site.company-email %}
+        <li>
+          <a class="icon-email" href="mailto:{{ site.company-email }}">
+            <span class="screen-reader">E-mail: {{ site.company-email }}</span>
+          </a>
+        <li>
+      {% endif %}
+
+      {% if site.company-linkedin %}
+        <li>
+          <a class="icon-linkedin-square" href="https://www.linkedin.com/in/{{ site.company-linkedin }}" target="_blank">
+            <span class="screen-reader">Linkedin profile: {{ site.company-linkedin }}</span>
+          </a>
+        <li>
+      {% endif %}
+
+      {% if site.company-github %}
+        <li>
+          <a class="icon-github-square" href="https://github.com/{{ site.company-github }}" target="_blank">
+            <span class="screen-reader">Github profile: {{ site.company-github }}</span>
+          </a>
+        <li>
+      {% endif %}
+
+      {% if site.company-twitter %}
+        <li>
+          <a class="icon-twitter-square" href="https://www.twitter.com/{{ site.company-twitter }}" target="_blank">
+            <span class="screen-reader">Twitter profile: {{ site.company-twitter }}</span>
+          </a>
+        <li>
+      {% endif %}
+
+      {% if site.company-facebook %}
+        <li>
+          <a class="icon-facebook-square" href="https://www.facebook.com/{{ site.company-facebook }}" target="_blank">
+            <span class="screen-reader">Facebook profile: {{ site.company-facebook }}</span>
+          </a>
+        <li>
+      {% endif %}
+
+      {% if site.company-googleplus %}
+        <li>
+          <a class="icon-google-plus-square" href="https://plus.google.com/{{ site.company-googleplus }}" target="_blank">
+            <span class="screen-reader">Google plus profile: {{ site.company-googleplus }}</span>
+          </a>
+        <li>
+      {% endif %}
+    </ul>
+  </div>
+</header>
