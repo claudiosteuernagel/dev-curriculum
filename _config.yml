@@ -5,15 +5,15 @@ url: "" # the base hostname & protocol for your site
 language: "" # language to set into html tag, default is en
 
 # Company settings
-company: Cláudio Steuernagel
-company-title: Full Stack Developer
+company: Cláudio Eduardo Steuernagel
+company-title: Under construction...
 company-gravatar: 28850fc5512be626f0b3180b9ba24652
-company-email: me@claudiosteuernagel.com
+company-email: contact@claudiosteuernagel.com
 company-twitter:
 company-github: claudiosteuernagel
 company-googleplus:
-company-facebook: claudio.steuernagel
-company-linkedin: claudiosteuernagel/en
+company-facebook:
+company-linkedin:
 
 # User settings
 
