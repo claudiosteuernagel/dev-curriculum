@@ -7,9 +7,9 @@ language: "" # language to set into html tag, default is en
 # Company settings
 company: Cláudio Eduardo Steuernagel
 company-title: Under construction...
-company-subtitle: contact@claudiosteuernagel.com
+company-subtitle: claudio.steuernagel@gmail.com
 company-gravatar: 28850fc5512be626f0b3180b9ba24652
-company-email: contact@claudiosteuernagel.com
+company-email: claudio.steuernagel@gmail.com
 company-twitter:
 company-github: claudiosteuernagel
 company-googleplus:
@@ -21,7 +21,7 @@ company-linkedin:
 author: Cláudio Steuernagel
 author-title: Full Stack Developer
 gravatar: 28850fc5512be626f0b3180b9ba24652
-email: me@claudiosteuernagel.com
+email: claudio.steuernagel@gmail.com
 twitter:
 github: claudiosteuernagel
 googleplus:
